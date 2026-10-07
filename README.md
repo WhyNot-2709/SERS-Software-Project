@@ -1,5 +1,17 @@
-# SERS — Student Elective Registration System
+# SERS - Student Elective Registration System
 ### Team NOVA | Group 14 | Mahindra University | April 2026
+
+## Team
+
+| Name | Roll Number |
+|------|-------------|
+| H. Aakanksh Reddy | SE23UARI048 |
+| Ananya Agrawal | SE23UARI010 |
+| Aishika Reddy | SE23UARI075 |
+| Shruti Verma | SE23UARI116 |
+| N. Sudhiksha | SE23UCSE119 |
+| P. Sishir K. Reddy | SE23UCSE136 |
+| S. Nayanasakhi | SE23UMCS056 |
 
 ---
 
@@ -63,20 +75,6 @@ All documents are in the `/docs` folder:
 - SRS (Software Requirements Specification)
 - SDS (Software Design Specification)
 - Test Plan
-
----
-
-## Team
-
-| Name | Roll Number |
-|------|-------------|
-| H. Aakanksh Reddy | SE23UARI048 |
-| Ananya Agrawal | SE23UARI010 |
-| Aishika Reddy | SE23UARI075 |
-| Shruti Verma | SE23UARI116 |
-| N. Sudhiksha | SE23UCSE119 |
-| P. Sishir K. Reddy | SE23UCSE136 |
-| S. Nayanasakhi | SE23UMCS056 |
 
 ---
 
